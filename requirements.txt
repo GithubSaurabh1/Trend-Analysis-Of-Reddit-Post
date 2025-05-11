@@ -1,0 +1,10 @@
+streamlit
+streamlit-autorefresh
+praw
+psaw
+pandas
+matplotlib
+bertopic
+scikit-learn
+numpy
+keybert
